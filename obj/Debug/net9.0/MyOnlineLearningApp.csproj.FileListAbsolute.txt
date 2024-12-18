@@ -1,0 +1,15 @@
+C:\Users\Administrator\Collage\MyOnlineLearningApp\bin\Debug\net9.0\MyOnlineLearningApp.exe
+C:\Users\Administrator\Collage\MyOnlineLearningApp\bin\Debug\net9.0\MyOnlineLearningApp.deps.json
+C:\Users\Administrator\Collage\MyOnlineLearningApp\bin\Debug\net9.0\MyOnlineLearningApp.runtimeconfig.json
+C:\Users\Administrator\Collage\MyOnlineLearningApp\bin\Debug\net9.0\MyOnlineLearningApp.dll
+C:\Users\Administrator\Collage\MyOnlineLearningApp\bin\Debug\net9.0\MyOnlineLearningApp.pdb
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\MyOnlineLearningApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\MyOnlineLearningApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\MyOnlineLearningApp.AssemblyInfo.cs
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\MyOnlineLearningApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\MyOnlineLearningApp.sourcelink.json
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\MyOnlineLearningApp.dll
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\refint\MyOnlineLearningApp.dll
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\MyOnlineLearningApp.pdb
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\MyOnlineLearningApp.genruntimeconfig.cache
+C:\Users\Administrator\Collage\MyOnlineLearningApp\obj\Debug\net9.0\ref\MyOnlineLearningApp.dll
